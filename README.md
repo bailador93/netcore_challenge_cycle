@@ -16,8 +16,8 @@ Este proyecto es un backend API RESTful construido utilizando **.NET 9**. Propor
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/bailador93/netcore_challenge_cycle.git api-productos
+cd api-productos
 ```
 
 ### 2. Configurar la base de datos
